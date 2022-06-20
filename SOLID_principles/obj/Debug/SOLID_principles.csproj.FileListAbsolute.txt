@@ -1,0 +1,8 @@
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\bin\Debug\SOLID_principles.exe.config
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\bin\Debug\SOLID_principles.exe
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\bin\Debug\SOLID_principles.pdb
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\obj\Debug\SOLID_principles.csproj.AssemblyReference.cache
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\obj\Debug\SOLID_principles.csproj.SuggestedBindingRedirects.cache
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\obj\Debug\SOLID_principles.csproj.CoreCompileInputs.cache
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\obj\Debug\SOLID_principles.exe
+F:\Nimap Intershipwork\SOLID_principles\SOLID_principles\obj\Debug\SOLID_principles.pdb

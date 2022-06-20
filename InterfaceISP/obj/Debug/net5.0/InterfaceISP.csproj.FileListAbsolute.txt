@@ -1,0 +1,12 @@
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.csproj.AssemblyReference.cache
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.AssemblyInfoInputs.cache
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.AssemblyInfo.cs
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.csproj.CoreCompileInputs.cache
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\bin\Debug\net5.0\InterfaceISP.deps.json
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\bin\Debug\net5.0\InterfaceISP.dll
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\bin\Debug\net5.0\InterfaceISP.pdb
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.dll
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\refint\InterfaceISP.dll
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\InterfaceISP.pdb
+F:\Nimap Intershipwork\SOLID_principles\InterfaceISP\obj\Debug\net5.0\ref\InterfaceISP.dll
